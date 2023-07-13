@@ -206,8 +206,6 @@ body {
         align-content: center;
     }
 
-    
-
     .item{
       display: flex;
       flex-direction: column;
